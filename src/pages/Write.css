@@ -1,0 +1,16 @@
+.write{
+    padding-top: 50px;
+}
+.writeInp{
+    margin: 20px;
+    padding: 20px;
+    width: 700px;
+    align-items: center;
+}
+#fileInput{
+width: 700px;
+margin-left: 20px;
+}
+.btn{
+    margin-left: 20px;
+}
